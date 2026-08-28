@@ -68,10 +68,10 @@ All cleaning, factorizing, string manipulation, and type conversions were perfor
 
 ## Repository Structure
 
-* `Clinic Appointments Data Cleaning .ipynb`: Main Jupyter notebook containing step-by-step cleaning logic and code.
 * `Clinic_Appointments_Cleaned_Data.csv`: Final processed, standardized dataset ready for analytics.
 * `README.md`: Project documentation and workflow breakdown.
-* * `messy_clinic_appointments.csv`: Original raw messy clinic dataset sourced from Kaggle.
+* `Clinic Appointments Data Cleaning .ipynb`: Main Jupyter notebook containing step-by-step cleaning logic and code.
+* `messy_clinic_appointments.csv`: Original raw messy clinic dataset sourced from Kaggle.
 
 ---
 
